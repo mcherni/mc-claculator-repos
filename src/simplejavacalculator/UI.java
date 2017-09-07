@@ -38,7 +38,7 @@ public class UI implements ActionListener {
             "7", "8", "9" };
 
     public UI() {
-        frame = new JFrame("Calculator PH");
+        frame = new JFrame("Calculator MC");
         frame.setResizable(false);
         panel = new JPanel(new FlowLayout());
 
